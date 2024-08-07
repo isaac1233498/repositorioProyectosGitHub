@@ -7,7 +7,9 @@
 </head>
 <body>
     <?php
-   echo  "Hola Mundo git"
+   echo "Hola Mundo git"
+   echo "probando"
+   echo "mundo"
     ?>
 </body>
 </html>
